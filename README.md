@@ -2,9 +2,8 @@
 [![NPM](https://img.shields.io/github/license/mateusbrga/cadastro-postagens)](https://github.com/mateusbrga/cadastro-postagens/blob/main/LICENSE)
 # Sobre o projeto
 
-Esta é uma aplicação web full stack web, construída durante meus estudos.
+Este é um React app que consiste em uma Lista de tarefas utilizando React e json-server para armazenamento de tarefas
 
-A aplicação consiste em uma página em servidor local que cadastra postagens em um banco de dados, com métodos de criar e deletar postagens.
 # Tecnologias utilizadas
 
 ## Back end
